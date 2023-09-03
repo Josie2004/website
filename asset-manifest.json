@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jsPractice/static/css/main.073c9b0a.css",
+    "main.js": "/jsPractice/static/js/main.53a9ca57.js",
+    "static/js/787.cc4e593a.chunk.js": "/jsPractice/static/js/787.cc4e593a.chunk.js",
+    "static/media/logo.svg": "/jsPractice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jsPractice/index.html",
+    "main.073c9b0a.css.map": "/jsPractice/static/css/main.073c9b0a.css.map",
+    "main.53a9ca57.js.map": "/jsPractice/static/js/main.53a9ca57.js.map",
+    "787.cc4e593a.chunk.js.map": "/jsPractice/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.53a9ca57.js"
+  ]
+}
